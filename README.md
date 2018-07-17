@@ -1,12 +1,10 @@
-# FundamentalsOfComputing
-list of the few basic c programs executed:
+## FundamentalsOfComputing
+
+# list of the few basic c programs executed:
 
 1.	Write a program to find area of rectangle.
-
-
 2.	Write a program to find area and circumference of circle by defining the value of PI (using symbolic constant).
 3.	Write a program to swap 2 numbers without using temporary variable.
-
 4.	Write a program to to find simple interest.
 5.	Write a C program to convert Celsius to Fahrenheit.
 6.	Write a program to swap 2 numbers using temporary variable.
