@@ -1,6 +1,6 @@
-## FundamentalsOfComputing
+# Fundamentals Of Computing
 
-# list of the few basic c programs executed:
+## list of the few basic c programs executed:
 
 1.	Write a program to find area of rectangle.
 2.	Write a program to find area and circumference of circle by defining the value of PI (using symbolic constant).
