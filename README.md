@@ -68,5 +68,6 @@ break and continue statements.
 64.	Write the C program which opens a file using the function fopen( ).
 66.	Write a C program to demonstrate the use of fprintf().
 65.	Write a C program to demonstrate the use of fscanf().
+66. Write a C program to demonstrate the use of fprintf().
 
 ## end of questions
